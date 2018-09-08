@@ -1,5 +1,4 @@
-# SettlementPlan
-Tool for settling expenses between friends or roommates. 
+# Tool for settling expenses between friends or roommates. 
 Can be used to settle expenses at the end of a trip or apartment rent fees.
 
  - Create a settlement plan
